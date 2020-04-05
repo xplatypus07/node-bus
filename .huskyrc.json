@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "pre-commit": "eslint .",
+    "post-commit": "git status"
+  }
+}
